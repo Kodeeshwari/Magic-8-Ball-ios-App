@@ -6,4 +6,4 @@ I developed Magic 8 Ball app. You can ask the app to make all your difficult dec
 
 ## How it looks
 
-![Magic 8 Ball](Documentation/Magic-8-ball.png | width = 300)
+<img src="Documentation/Magic-8-ball.png" width="300"/>
